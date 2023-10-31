@@ -11,7 +11,6 @@ P.S.The text in the game is in Swedish
 
 ## Content in English 
 __Welcome to play RPS!__
-
 * Write 1 for Stone
 * Write 2 for Paper
 * Write 3 for Scissors
